@@ -1,6 +1,5 @@
 require("dotenv").config();
 const cors = require("cors");
-teste;
 
 const express = require("express");
 const { uuid, isUuid } = require("uuidv4");
